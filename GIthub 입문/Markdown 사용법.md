@@ -122,27 +122,29 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 ---  
 
 ### [짧은 코드]  
-짧은 코드를 따옴표 사이에 작성하면 이쁜 색깔이 들어간다.
+짧은 코드는 \`와\` 사이에 작성하면 이쁜 색깔이 들어간다.
 
-'printf("Hello World!");'  
+`Console.WriteLine("Hello World!");`  
   
 ```markdown
-'printf("Hello World!");'
+`Console.WriteLine("Hello World!");`
 ```
 ---  
   
 ### [인용구]  
 인용구는 문장앞에 >를 붙여서 사용한다.  
 줄마다 모두 붙여줘야 한다.  
+문장앞에 >를 여러개 사용할 수 있다.
   
-명언
+
 > This, too, shall pass away.  
-> 이 또한 지나가리라  
+> 이 또한 지나가리라
+>> 명언   
   
 ```markdown
-명언
 > This, too, shall pass away.  
-> 이 또한 지나가리라  
+> 이 또한 지나가리라
+>> 명언   
 ```  
 ---
   
@@ -151,6 +153,7 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 또는 단어 시작과 끝에 붙여서 사용한다.  
 1개를 붙이면 기울임  
 2개를 붙이면 굵게  
+3개를 붙이거나 1개와 2개를 혼용하면 기울이고 굵게  
 
 *기울임*  
 _기울임_  
@@ -226,8 +229,8 @@ ___
 ### [이모티콘]  
 \:와 \: 사이에 키워드를 입력하여 사용한다.  
 키워드는 아래의 사이트에서 확인 가능하다.  
-[https://www.webfx.com/tools/emoji-cheat-sheet/]
-(https://www.webfx.com/tools/emoji-cheat-sheet/)
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
   
 :smile:  
 :blush:  
@@ -237,3 +240,7 @@ ___
 :blush:  
 ```
 
+#### [참고 링크]  
+* https://post.naver.com/viewer/postView.nhn?volumeNo=24627214  
+* https://eungbean.github.io/2018/06/11/How-to-use-markdown/  
+* https://88240.tistory.com/122  
