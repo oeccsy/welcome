@@ -69,23 +69,25 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 
 ### [하이퍼링크]  
 대괄호 안에는 표시될 문구를 적고
-괄호 안에는 링크가 걸릴 주소를 적는다.
+괄호 안에는 링크가 걸릴 주소를 적는다.  
+이때 대괄호와 괄호 사이에는 빈칸이 있으면 안된다.  
 
-[welcome] (https://github.com/oeccsy/welcome)  
+[welcome](https://github.com/oeccsy/welcome)  
 
 ```markdown
-[welcome] (https://github.com/oeccsy/welcome)  
+[welcome](https://github.com/oeccsy/welcome)  
 ```  
 ---  
 
 ### [이미지 등록]  
 마크다운 파일과 이미지 파일을 같은 폴더에 담은 후 이미지를 불러온다.  
 폴더 안에 이미지가 없으면 이미지를 등록할 수 없다.  
-문장 앞에 !를 붙이고 [이미지 명](url 링크)형식으로 작성하면 된다.   
+문장 앞에 !를 붙이고 [이미지 명](url 링크)형식으로 작성하면 된다.  
+이때 대괄호와 괄호 사이에는 빈칸이 있으면 안된다.  
 
-![Image] (C:\Users\user\Documents\GitHub\welcome\Dummy)
+![Image](/dummy/image.png)
   
 ```markdown
-![Image] (C:\Users\user\Documents\GitHub\welcome\Dummy)
+![Image](/dummy/image.png)
 ```  
 
