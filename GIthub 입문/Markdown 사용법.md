@@ -83,9 +83,9 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 폴더 안에 이미지가 없으면 이미지를 등록할 수 없다.  
 문장 앞에 !를 붙이고 [이미지 명](url 링크)형식으로 작성하면 된다.   
 
-![Imagee] (/dummy/image.png)
+![Image] (/dummy/image.png)
   
 ```markdown
-![Imagee] (/dummy/image.png)
+![Image] (/dummy/image.png)
 ```  
 
