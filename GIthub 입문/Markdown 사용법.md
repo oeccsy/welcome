@@ -122,12 +122,12 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 ---  
 
 ### [짧은 코드]  
-짧은 코드는 \`와\` 사이에 작성하면 이쁜 색깔이 들어간다.
+짧은 코드를 문장 사이에 나타내는 방법도 있다.
 
-`Console.WriteLine("Hello World!");`  
+문장 사이에 `Console.WriteLine("Hello World!");`  작성!  
   
 ```markdown
-`Console.WriteLine("Hello World!");`
+문장 사이에 `Console.WriteLine("Hello World!");`  작성!  
 ```
 ---  
   
@@ -175,9 +175,10 @@ __굵게__
 ---  
   
 ### [테이블]  
+\-와 \|로 헤더, 셀을 구분하여 테이블 작성이 가능하다.
 
 헤더1 | 헤더2
--------|-------
+------|------
 셀1-1 | 셀2-1
 셀1-2 | 셀2-2
 
@@ -239,6 +240,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 :smile:  
 :blush:  
 ```
+---  
 
 #### [참고 링크]  
 * https://post.naver.com/viewer/postView.nhn?volumeNo=24627214  
