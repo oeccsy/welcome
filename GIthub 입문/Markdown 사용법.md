@@ -92,9 +92,9 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 ./ : 현재 위치  
 ../ : 현재 위치의 상단 폴더  
 
-![Image](../dummy/image.png)  
+![Image](../Dummy/Image.png)  
   
 ```markdown
-![Image](../dummy/image.png)
+![Image](../Dummy/Image.png)
 ```  
 
