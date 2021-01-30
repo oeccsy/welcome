@@ -29,7 +29,9 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 1. list 1
 1. list 2
 	1. list 2-1
-	1. list 2-2  
+	1. list 2-2
+* list 1
+	1. list 2  
   
 ```markdown
 * list 1
