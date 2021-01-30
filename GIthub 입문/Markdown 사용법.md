@@ -85,9 +85,9 @@ h1이 가장 큰 글씨이며 #을 1개 붙이면 h1, 6개 붙이면 h6이다.
 문장 앞에 !를 붙이고 [이미지 명](url 링크)형식으로 작성하면 된다.  
 이때 대괄호와 괄호 사이에는 빈칸이 있으면 안된다.  
 
-![Image](/dummy/image.png)
+![Image](/welcome/dummy/image.png)
   
 ```markdown
-![Image](/dummy/image.png)
+![Image](/welcome/dummy/image.png)
 ```  
 
