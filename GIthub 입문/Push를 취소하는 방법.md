@@ -28,3 +28,8 @@ reset한 상태에서 push를 하게 되면 기존의 내용이 삭제되는 위
   
 개인적으로 사용하고 있는 repository는 강제 push를 사용해도 상관 없지만,  
 팀프로젝트나 다른사람과 같이 사용하는 repository라면 반드시 상의 후에 진행해야 한다.
+
+#### 참고링크
+
+* https://ninano1109.tistory.com/3 
+* http://www.kwangsiklee.com/2018/11/%EA%BF%80%ED%8C%81-github%EC%97%90-%EC%9D%B4%EB%AF%B8-push-%ED%95%B4%EB%B2%84%EB%A6%B0-commit-%EC%A7%80%EC%9A%B0%EA%B8%B0/
