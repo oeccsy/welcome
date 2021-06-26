@@ -13,6 +13,7 @@ Repository를 합치는 방법을 간단하게 알아보았다.
 `git subtree add --prefix=(해당 Repository 하위의 디렉터리 구조) (옮겨올 Repository 주소) (옮겨올 Repository의 branch)`  
 `git subtree add --prefix=temp http://github.com/oeccsy/test3.git main`
 * subtree를 이용하여 Repository를 합친다. 이때 commit log 까지 합쳐진다.
+* 위의 명령어를 예시로 하면 temp라는 새로운 디렉토리를 만들어서 그곳으로 옮긴다. 이때 temp라는 디렉토리가 이미 존재하면 안된다.
 
 ### [참고 링크]
 * http://yeoseon.kr/git-repository-habcigi-commit-log-yuji-subtree-iyong/  
